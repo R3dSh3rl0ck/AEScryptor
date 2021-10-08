@@ -1,6 +1,11 @@
 # AEScryptor Tool Description
 Encrypt and Decrypt files with AES-128 (16bytes key).
 
+<b>AES mode</b> = CFB (cipher Feedback) 
+
+<b>security</b> = super safe!
+
+
 # Usage
 [1] Choose [1] or [0] ( [Encryption] or [Decryption] )
 
